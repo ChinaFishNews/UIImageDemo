@@ -225,7 +225,7 @@
 
 方法使用:
 
-![](http://7xqjid.com1.z0.glb.clouddn.com/2016-03-01-01.gif?attname=)
+![](./2016-03-01-01.gif)
 
 
 
