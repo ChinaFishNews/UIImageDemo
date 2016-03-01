@@ -31,7 +31,6 @@
     UIGraphicsEndImageContext();
     
     return image;
-
 }
 
 /*
@@ -170,7 +169,6 @@
     UIGraphicsEndImageContext();
     
     return newimage;
-
 }
 
 /*
@@ -192,14 +190,6 @@
     return [UIImage imageWithCGImage:image.CGImage
                                scale:image.scale
                          orientation:UIImageOrientationUpMirrored];
-}
-
-/*
- 修改图片的颜色
- */
-+(UIImage *)imageColorChanged:(UIImage *)image{
-    
-    return [image imageWithRenderingMode:UIImageRenderingModeAlwaysTemplate];
 }
 
 /*
