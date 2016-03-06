@@ -3,7 +3,7 @@
 
 最近看了下JSQMessage的源码，一个比较优雅的UI库，代码很赞，只用了少量的图片，牵扯了一些UIImage的相关操作。虽然控件比较基本 ，但是一些用法还是不是很清楚，希望接下来能有时间去整理下其他的基础控件。此次仅为UIImage的一些相关操作
 
-博客地址:http://chinafishnews.github.io/2016/03/01/UIImage的相关操作/
+博客地址:[点击前往](http://chinafish.news/2016/03/01/UIImage的相关操作/)
 
 
 ####  通过颜色生成纯色图片
