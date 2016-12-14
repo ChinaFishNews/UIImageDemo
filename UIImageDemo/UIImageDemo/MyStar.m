@@ -17,7 +17,7 @@
 @implementation MyStar
 
 -(void)awakeFromNib{
-    
+    [super awakeFromNib];
     self.backgroundColor = [UIColor clearColor];
 }
 
